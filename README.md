@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ilyasrao-74
+- 👋 Hi, I’m @ilyasrao
 - 👀 I’m interested in electronics hardware and software 
 - 🌱 I’m currently learning programming 
 
 
-<!---
-ilyasrao-74/ilyasrao-74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+here is my YouTube channel https://youtube.com/@ilyasrao?si=pvsalkxTPVYrRsj7  here you can visit watch a number of video tutorials about programming, hardware, software, arduino, python, microcontrollars, electronics and much more
